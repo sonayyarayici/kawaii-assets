@@ -2878,6 +2878,61 @@
       ]
     },
     {
+      "id": "Creative",
+      "name": "Creative",
+      "cover": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Creative/1.webp",
+      "items": [
+        {
+          "id": "Creative_1",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Creative/1.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Creative/1.webp"
+        },
+        {
+          "id": "Creative_2",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Creative/2.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Creative/2.webp"
+        },
+        {
+          "id": "Creative_3",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Creative/3.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Creative/3.webp"
+        },
+        {
+          "id": "Creative_4",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Creative/4.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Creative/4.webp"
+        },
+        {
+          "id": "Creative_5",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Creative/5.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Creative/5.webp"
+        },
+        {
+          "id": "Creative_6,",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Creative/6,.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Creative/6,.webp"
+        }
+      ]
+    },
+    {
       "id": "Cute-Minimal",
       "name": "Cute Minimal",
       "cover": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Cute-Minimal/1.webp",
