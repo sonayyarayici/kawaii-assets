@@ -2860,6 +2860,14 @@
           "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Cool-Patterns/86.webp"
         },
         {
+          "id": "Cool-Patterns_87",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Cool-Patterns/87.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Cool-Patterns/87.webp"
+        },
+        {
           "id": "Cool-Patterns_9",
           "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Cool-Patterns/9.webp",
           "premium": false,
@@ -4199,6 +4207,229 @@
           "type": "image",
           "cost": 300,
           "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/1.webp"
+        },
+        {
+          "id": "Gaming_2",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/2.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/2.webp"
+        },
+        {
+          "id": "Gaming_3",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/3.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/3.webp"
+        },
+        {
+          "id": "Gaming_4",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/4.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/4.webp"
+        },
+        {
+          "id": "Gaming_5",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/5.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/5.webp"
+        },
+        {
+          "id": "Gaming_6",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/6.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/6.webp"
+        },
+        {
+          "id": "Gaming_7",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/7.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/7.webp"
+        },
+        {
+          "id": "Gaming_8",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/8.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/8.webp"
+        },
+        {
+          "id": "Gaming_9",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/9.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Gaming/9.webp"
+        }
+      ]
+    },
+    {
+      "id": "Girly",
+      "name": "Girly",
+      "cover": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/1.webp",
+      "items": [
+        {
+          "id": "Girly_1",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/1.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/1.webp"
+        },
+        {
+          "id": "Girly_10",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/10.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/10.webp"
+        },
+        {
+          "id": "Girly_11",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/11.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/11.webp"
+        },
+        {
+          "id": "Girly_12",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/12.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/12.webp"
+        },
+        {
+          "id": "Girly_13",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/13.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/13.webp"
+        },
+        {
+          "id": "Girly_14",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/14.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/14.webp"
+        },
+        {
+          "id": "Girly_15",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/15.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/15.webp"
+        },
+        {
+          "id": "Girly_16",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/16.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/16.webp"
+        },
+        {
+          "id": "Girly_17",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/17.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/17.webp"
+        },
+        {
+          "id": "Girly_18",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/18.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/18.webp"
+        },
+        {
+          "id": "Girly_19",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/19.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/19.webp"
+        },
+        {
+          "id": "Girly_2",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/2.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/2.webp"
+        },
+        {
+          "id": "Girly_3",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/3.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/3.webp"
+        },
+        {
+          "id": "Girly_4",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/4.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/4.webp"
+        },
+        {
+          "id": "Girly_5",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/5.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/5.webp"
+        },
+        {
+          "id": "Girly_6",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/6.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/6.webp"
+        },
+        {
+          "id": "Girly_7",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/7.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/7.webp"
+        },
+        {
+          "id": "Girly_8",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/8.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/8.webp"
+        },
+        {
+          "id": "Girly_9",
+          "url": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/9.webp",
+          "premium": false,
+          "type": "image",
+          "cost": 300,
+          "thumbnail": "https://raw.githubusercontent.com/sonayyarayici/kawaii-assets/main/Girly/9.webp"
         }
       ]
     },
